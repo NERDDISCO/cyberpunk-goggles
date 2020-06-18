@@ -59,3 +59,8 @@ typings/
 
 # next.js build output
 .next
+
+# Don't include the config
+sketchbook/cyberpunk-led-wifi-goggles/config.h
+
+.DS_Store
